@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "521524924108",
+    "project_id": "gmail-952ae"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:521524924108:android:6335d2599e018e60",
+        "android_client_info": {
+          "package_name": "tk.chiragarora.gmail"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "521524924108-safv37enn74jg90jrd9l33ag997tqnsv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "tk.chiragarora.gmail",
+            "certificate_hash": "36E5CB8ACEAEDBA9FCA7EF3E3C3A860E3CC44FFB"
+          }
+        },
+        {
+          "client_id": "521524924108-p1cfkdjol77co8ohpss7r8g2n929bpql.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrWnjZ3xIPx8abhSRPgCU9NjBBFgHTdn0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
